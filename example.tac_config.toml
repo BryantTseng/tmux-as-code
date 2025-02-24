@@ -1,0 +1,10 @@
+[global]
+
+
+[sessions]
+[sessions.workplace]
+[sessions.workplace.window1]
+[sessions.workplace.window2]
+[sessions.dev]
+[sessions.prod]
+
